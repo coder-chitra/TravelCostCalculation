@@ -1,0 +1,31 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+ 
+# Eclipse
+.project
+.classpath
+.settings/
+ 
+# IntelliJ (if you ever open there)
+.idea/
+*.iml
+ 
+# Logs
+*.log
+ 
+# OS files
+.DS_Store
+Thumbs.db
+ 
+# Test output
+test-output/
+allure-results/
+allure-report/
+ 
+# Temporary files
+*.tmp
+*.temp
+  
