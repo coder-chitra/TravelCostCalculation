@@ -26,6 +26,8 @@ public class LoginSteps {
 
     @Then("Error message should be displayed")
     public void verify_error() {
+    	System.out.println("------------------------------------------------------------------");
         System.out.println("Error message: " + loginPage.getErrorMessage());
+        System.out.println("------------------------------------------------------------------");
     }
 }

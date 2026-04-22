@@ -1,0 +1,215 @@
+2025-07-16 10:09:03.398+0000 [id=1]	INFO	winstone.Logger#logInternal: Beginning extraction from war file
+2025-07-16 10:09:03.474+0000 [id=1]	WARNING	o.e.j.ee9.nested.ContextHandler#setContextPath: Empty contextPath
+2025-07-16 10:09:03.568+0000 [id=1]	INFO	org.eclipse.jetty.server.Server#doStart: jetty-12.0.16; built: 2024-12-09T21:02:54.535Z; git: c3f88bafb4e393f23204dc14dc57b042e84debc7; jvm 21+35-LTS-2513
+2025-07-16 10:09:04.387+0000 [id=1]	INFO	o.e.j.e.w.StandardDescriptorProcessor#visitServlet: NO JSP Support for /, did not find org.eclipse.jetty.ee9.jsp.JettyJspServlet
+2025-07-16 10:09:04.445+0000 [id=1]	INFO	o.e.j.s.DefaultSessionIdManager#doStart: Session workerName=node0
+2025-07-16 10:09:04.838+0000 [id=1]	INFO	hudson.WebAppMain#contextInitialized: Jenkins home directory: C:\ProgramData\Jenkins\.jenkins found at: EnvVars.masterEnvVars.get("JENKINS_HOME")
+2025-07-16 10:09:04.951+0000 [id=1]	INFO	o.e.j.s.handler.ContextHandler#doStart: Started oeje9n.ContextHandler$CoreContextHandler@3f2049b6{Jenkins v2.497,/,b=file:///C:/ProgramData/Jenkins/war/,a=AVAILABLE,h=oeje9n.ContextHandler$CoreContextHandler$CoreToNestedHandler@10b3df93{STARTED}}
+2025-07-16 10:09:04.980+0000 [id=1]	INFO	o.e.j.server.AbstractConnector#doStart: Started ServerConnector@32c0915e{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2025-07-16 10:09:04.997+0000 [id=1]	INFO	org.eclipse.jetty.server.Server#doStart: Started oejs.Server@6a192cfe{STARTING}[12.0.16,sto=0] @2081ms
+2025-07-16 10:09:04.999+0000 [id=41]	INFO	winstone.Logger#logInternal: Winstone Servlet Engine running: controlPort=disabled
+2025-07-16 10:09:05.128+0000 [id=40]	INFO	jenkins.model.Jenkins#<init>: Starting version 2.497
+2025-07-16 10:09:05.287+0000 [id=50]	INFO	jenkins.InitReactorRunner$1#onAttained: Started initialization
+2025-07-16 10:09:05.322+0000 [id=71]	INFO	jenkins.InitReactorRunner$1#onAttained: Listed all plugins
+2025-07-16 10:09:06.549+0000 [id=71]	INFO	jenkins.InitReactorRunner$1#onAttained: Prepared all plugins
+2025-07-16 10:09:06.560+0000 [id=71]	INFO	jenkins.InitReactorRunner$1#onAttained: Started all plugins
+2025-07-16 10:09:06.561+0000 [id=65]	INFO	jenkins.InitReactorRunner$1#onAttained: Augmented all extensions
+2025-07-16 10:09:06.947+0000 [id=54]	INFO	jenkins.InitReactorRunner$1#onAttained: System config loaded
+2025-07-16 10:09:06.947+0000 [id=54]	INFO	jenkins.InitReactorRunner$1#onAttained: System config adapted
+2025-07-16 10:09:06.948+0000 [id=54]	INFO	jenkins.InitReactorRunner$1#onAttained: Loaded all jobs
+2025-07-16 10:09:06.950+0000 [id=51]	INFO	jenkins.InitReactorRunner$1#onAttained: Configuration for all jobs updated
+2025-07-16 10:09:07.033+0000 [id=63]	INFO	jenkins.install.SetupWizard#init: 
+
+*************************************************************
+*************************************************************
+*************************************************************
+
+Jenkins initial setup is required. An admin user has been created and a password generated.
+Please use the following password to proceed to installation:
+
+97804438f8714b72b814abba572a39c3
+
+This may also be found at: C:\ProgramData\Jenkins\.jenkins\secrets\initialAdminPassword
+
+*************************************************************
+*************************************************************
+*************************************************************
+
+2025-07-16 10:09:16.316+0000 [id=68]	INFO	jenkins.InitReactorRunner$1#onAttained: Completed initialization
+2025-07-16 10:09:16.363+0000 [id=40]	INFO	hudson.lifecycle.Lifecycle#onReady: Jenkins is fully up and running
+2025-07-16 11:02:08.256+0000 [id=1]	INFO	winstone.Logger#logInternal: Beginning extraction from war file
+2025-07-16 11:02:08.492+0000 [id=1]	WARNING	o.e.j.ee9.nested.ContextHandler#setContextPath: Empty contextPath
+2025-07-16 11:02:08.648+0000 [id=1]	INFO	org.eclipse.jetty.server.Server#doStart: jetty-12.0.16; built: 2024-12-09T21:02:54.535Z; git: c3f88bafb4e393f23204dc14dc57b042e84debc7; jvm 21+35-LTS-2513
+2025-07-16 11:02:10.406+0000 [id=1]	INFO	o.e.j.e.w.StandardDescriptorProcessor#visitServlet: NO JSP Support for /, did not find org.eclipse.jetty.ee9.jsp.JettyJspServlet
+2025-07-16 11:02:10.657+0000 [id=1]	INFO	o.e.j.s.DefaultSessionIdManager#doStart: Session workerName=node0
+2025-07-16 11:02:11.834+0000 [id=1]	INFO	hudson.WebAppMain#contextInitialized: Jenkins home directory: C:\ProgramData\Jenkins\.jenkins found at: EnvVars.masterEnvVars.get("JENKINS_HOME")
+2025-07-16 11:02:12.104+0000 [id=1]	INFO	o.e.j.s.handler.ContextHandler#doStart: Started oeje9n.ContextHandler$CoreContextHandler@3f2049b6{Jenkins v2.497,/,b=file:///C:/ProgramData/Jenkins/war/,a=AVAILABLE,h=oeje9n.ContextHandler$CoreContextHandler$CoreToNestedHandler@10b3df93{STARTED}}
+2025-07-16 11:02:12.151+0000 [id=1]	INFO	o.e.j.server.AbstractConnector#doStart: Started ServerConnector@32c0915e{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2025-07-16 11:02:12.182+0000 [id=1]	INFO	org.eclipse.jetty.server.Server#doStart: Started oejs.Server@6a192cfe{STARTING}[12.0.16,sto=0] @6762ms
+2025-07-16 11:02:12.182+0000 [id=41]	INFO	winstone.Logger#logInternal: Winstone Servlet Engine running: controlPort=disabled
+2025-07-16 11:02:12.480+0000 [id=40]	INFO	jenkins.model.Jenkins#<init>: Starting version 2.497
+2025-07-16 11:02:12.733+0000 [id=50]	INFO	jenkins.InitReactorRunner$1#onAttained: Started initialization
+2025-07-16 11:02:12.781+0000 [id=70]	INFO	jenkins.InitReactorRunner$1#onAttained: Listed all plugins
+2025-07-16 11:02:14.596+0000 [id=59]	INFO	jenkins.InitReactorRunner$1#onAttained: Prepared all plugins
+2025-07-16 11:02:14.612+0000 [id=54]	INFO	jenkins.InitReactorRunner$1#onAttained: Started all plugins
+2025-07-16 11:02:14.612+0000 [id=65]	INFO	jenkins.InitReactorRunner$1#onAttained: Augmented all extensions
+2025-07-16 11:02:15.067+0000 [id=50]	INFO	jenkins.InitReactorRunner$1#onAttained: System config loaded
+2025-07-16 11:02:15.082+0000 [id=52]	INFO	jenkins.InitReactorRunner$1#onAttained: System config adapted
+2025-07-16 11:02:15.082+0000 [id=67]	INFO	jenkins.InitReactorRunner$1#onAttained: Loaded all jobs
+2025-07-16 11:02:15.086+0000 [id=71]	INFO	jenkins.InitReactorRunner$1#onAttained: Configuration for all jobs updated
+2025-07-16 11:02:15.186+0000 [id=59]	INFO	jenkins.install.SetupWizard#init: 
+
+*************************************************************
+*************************************************************
+*************************************************************
+
+Jenkins initial setup is required. An admin user has been created and a password generated.
+Please use the following password to proceed to installation:
+
+97804438f8714b72b814abba572a39c3
+
+This may also be found at: C:\ProgramData\Jenkins\.jenkins\secrets\initialAdminPassword
+
+*************************************************************
+*************************************************************
+*************************************************************
+
+2025-07-16 11:02:15.468+0000 [id=59]	WARNING	hudson.model.UpdateCenter#updateDefaultSite: Upgrading Jenkins. Failed to update the default Update Site 'default'. Plugin upgrades may fail.
+java.net.UnknownHostException: updates.jenkins.io
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:751)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:178)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:531)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:636)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:377)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1237)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1123)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1675)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1599)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
+	at hudson.model.DownloadService.loadJSON(DownloadService.java:122)
+	at hudson.model.UpdateSite.updateDirectlyNow(UpdateSite.java:217)
+	at hudson.model.UpdateSite.updateDirectlyNow(UpdateSite.java:212)
+	at hudson.model.UpdateCenter.updateDefaultSite(UpdateCenter.java:2885)
+	at jenkins.install.SetupWizard.init(SetupWizard.java:209)
+	at jenkins.install.InstallState$InitialSecuritySetup.initializeState(InstallState.java:182)
+	at jenkins.model.Jenkins.setInstallState(Jenkins.java:1120)
+	at jenkins.install.InstallUtil.proceedToNextStateFrom(InstallUtil.java:98)
+	at jenkins.install.InstallState$Unknown.initializeState(InstallState.java:87)
+	at jenkins.model.Jenkins$16.run(Jenkins.java:3532)
+	at org.jvnet.hudson.reactor.TaskGraphBuilder$TaskImpl.run(TaskGraphBuilder.java:175)
+	at org.jvnet.hudson.reactor.Reactor.runTask(Reactor.java:304)
+	at jenkins.model.Jenkins$5.runTask(Jenkins.java:1147)
+	at org.jvnet.hudson.reactor.Reactor$2.run(Reactor.java:221)
+	at org.jvnet.hudson.reactor.Reactor$Node.run(Reactor.java:120)
+	at jenkins.security.ImpersonatingExecutorService$1.run(ImpersonatingExecutorService.java:68)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-07-16 11:02:15.672+0000 [id=53]	INFO	jenkins.InitReactorRunner$1#onAttained: Completed initialization
+2025-07-16 11:02:15.704+0000 [id=40]	INFO	hudson.lifecycle.Lifecycle#onReady: Jenkins is fully up and running
+2025-07-16 11:10:42.996+0000 [id=1]	INFO	winstone.Logger#logInternal: Beginning extraction from war file
+2025-07-16 11:10:43.279+0000 [id=1]	WARNING	o.e.j.ee9.nested.ContextHandler#setContextPath: Empty contextPath
+2025-07-16 11:10:43.515+0000 [id=1]	INFO	org.eclipse.jetty.server.Server#doStart: jetty-12.0.16; built: 2024-12-09T21:02:54.535Z; git: c3f88bafb4e393f23204dc14dc57b042e84debc7; jvm 21+35-LTS-2513
+2025-07-16 11:10:45.523+0000 [id=1]	INFO	o.e.j.e.w.StandardDescriptorProcessor#visitServlet: NO JSP Support for /, did not find org.eclipse.jetty.ee9.jsp.JettyJspServlet
+2025-07-16 11:10:45.680+0000 [id=1]	INFO	o.e.j.s.DefaultSessionIdManager#doStart: Session workerName=node0
+2025-07-16 11:10:46.999+0000 [id=1]	INFO	hudson.WebAppMain#contextInitialized: Jenkins home directory: C:\ProgramData\Jenkins\.jenkins found at: EnvVars.masterEnvVars.get("JENKINS_HOME")
+2025-07-16 11:10:47.286+0000 [id=1]	INFO	o.e.j.s.handler.ContextHandler#doStart: Started oeje9n.ContextHandler$CoreContextHandler@3f2049b6{Jenkins v2.497,/,b=file:///C:/ProgramData/Jenkins/war/,a=AVAILABLE,h=oeje9n.ContextHandler$CoreContextHandler$CoreToNestedHandler@10b3df93{STARTED}}
+2025-07-16 11:10:47.349+0000 [id=1]	INFO	o.e.j.server.AbstractConnector#doStart: Started ServerConnector@32c0915e{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2025-07-16 11:10:47.380+0000 [id=1]	INFO	org.eclipse.jetty.server.Server#doStart: Started oejs.Server@6a192cfe{STARTING}[12.0.16,sto=0] @7402ms
+2025-07-16 11:10:47.380+0000 [id=41]	INFO	winstone.Logger#logInternal: Winstone Servlet Engine running: controlPort=disabled
+2025-07-16 11:10:47.741+0000 [id=40]	INFO	jenkins.model.Jenkins#<init>: Starting version 2.497
+2025-07-16 11:10:48.040+0000 [id=50]	INFO	jenkins.InitReactorRunner$1#onAttained: Started initialization
+2025-07-16 11:10:48.114+0000 [id=71]	INFO	jenkins.InitReactorRunner$1#onAttained: Listed all plugins
+2025-07-16 11:10:50.145+0000 [id=71]	INFO	jenkins.InitReactorRunner$1#onAttained: Prepared all plugins
+2025-07-16 11:10:50.160+0000 [id=61]	INFO	jenkins.InitReactorRunner$1#onAttained: Started all plugins
+2025-07-16 11:10:50.160+0000 [id=48]	INFO	jenkins.InitReactorRunner$1#onAttained: Augmented all extensions
+2025-07-16 11:10:50.670+0000 [id=62]	INFO	jenkins.InitReactorRunner$1#onAttained: System config loaded
+2025-07-16 11:10:50.670+0000 [id=63]	INFO	jenkins.InitReactorRunner$1#onAttained: System config adapted
+2025-07-16 11:10:50.670+0000 [id=63]	INFO	jenkins.InitReactorRunner$1#onAttained: Loaded all jobs
+2025-07-16 11:10:50.670+0000 [id=61]	INFO	jenkins.InitReactorRunner$1#onAttained: Configuration for all jobs updated
+2025-07-16 11:10:50.758+0000 [id=59]	INFO	jenkins.install.SetupWizard#init: 
+
+*************************************************************
+*************************************************************
+*************************************************************
+
+Jenkins initial setup is required. An admin user has been created and a password generated.
+Please use the following password to proceed to installation:
+
+97804438f8714b72b814abba572a39c3
+
+This may also be found at: C:\ProgramData\Jenkins\.jenkins\secrets\initialAdminPassword
+
+*************************************************************
+*************************************************************
+*************************************************************
+
+2025-07-16 11:10:51.072+0000 [id=59]	WARNING	hudson.model.UpdateCenter#updateDefaultSite: Upgrading Jenkins. Failed to update the default Update Site 'default'. Plugin upgrades may fail.
+java.net.UnknownHostException: updates.jenkins.io
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:751)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:178)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:531)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:636)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:377)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1237)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1123)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1675)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1599)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
+	at hudson.model.DownloadService.loadJSON(DownloadService.java:122)
+	at hudson.model.UpdateSite.updateDirectlyNow(UpdateSite.java:217)
+	at hudson.model.UpdateSite.updateDirectlyNow(UpdateSite.java:212)
+	at hudson.model.UpdateCenter.updateDefaultSite(UpdateCenter.java:2885)
+	at jenkins.install.SetupWizard.init(SetupWizard.java:209)
+	at jenkins.install.InstallState$InitialSecuritySetup.initializeState(InstallState.java:182)
+	at jenkins.model.Jenkins.setInstallState(Jenkins.java:1120)
+	at jenkins.install.InstallUtil.proceedToNextStateFrom(InstallUtil.java:98)
+	at jenkins.install.InstallState$Unknown.initializeState(InstallState.java:87)
+	at jenkins.model.Jenkins$16.run(Jenkins.java:3532)
+	at org.jvnet.hudson.reactor.TaskGraphBuilder$TaskImpl.run(TaskGraphBuilder.java:175)
+	at org.jvnet.hudson.reactor.Reactor.runTask(Reactor.java:304)
+	at jenkins.model.Jenkins$5.runTask(Jenkins.java:1147)
+	at org.jvnet.hudson.reactor.Reactor$2.run(Reactor.java:221)
+	at org.jvnet.hudson.reactor.Reactor$Node.run(Reactor.java:120)
+	at jenkins.security.ImpersonatingExecutorService$1.run(ImpersonatingExecutorService.java:68)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-07-16 11:10:51.282+0000 [id=50]	INFO	jenkins.InitReactorRunner$1#onAttained: Completed initialization
+2025-07-16 11:10:51.307+0000 [id=40]	INFO	hudson.lifecycle.Lifecycle#onReady: Jenkins is fully up and running
+2025-07-17 03:24:34.674+0000 [id=83]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.
+2025-07-17 03:24:35.039+0000 [id=83]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.
+2025-07-17 03:24:35.040+0000 [id=83]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.
+2025-07-17 03:24:35.040+0000 [id=83]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.
+2025-07-17 03:24:35.041+0000 [id=83]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.
+2025-07-17 03:24:35.041+0000 [id=83]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.
+2025-07-17 03:24:35.042+0000 [id=83]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.
+2025-07-17 03:24:35.088+0000 [id=83]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.
+2025-07-17 03:24:35.088+0000 [id=83]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.
+2025-07-17 03:24:35.088+0000 [id=83]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.
+2025-07-17 03:24:35.088+0000 [id=83]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.
+2025-07-17 03:24:35.088+0000 [id=83]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.
+2025-07-17 03:24:35.088+0000 [id=83]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.
+2025-07-17 11:10:47.404+0000 [id=241]	INFO	hudson.util.Retrier#start: Attempt #1 to do the action check updates server
+2025-07-17 11:10:55.997+0000 [id=241]	INFO	h.m.DownloadService$Downloadable#load: Obtained the updated data file for hudson.tasks.Maven.MavenInstaller
+2025-07-17 11:10:55.998+0000 [id=241]	INFO	hudson.util.Retrier#start: Performed the action check updates server successfully at the attempt #1
+2025-07-18 03:20:53.033+0000 [id=47]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.
+2025-07-18 03:20:53.817+0000 [id=77]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.
+2025-07-18 03:20:53.852+0000 [id=77]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.
+2025-07-18 03:20:53.861+0000 [id=77]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.
+2025-07-18 03:20:53.862+0000 [id=75]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.
+2025-07-18 03:20:53.864+0000 [id=83]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.
+2025-07-18 03:20:53.864+0000 [id=83]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.
+2025-07-18 03:20:53.864+0000 [id=83]	INFO	hudson.model.AsyncPeriodicWork#doRun: Periodic background build discarder thread is still running. Execution aborted.

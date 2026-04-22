@@ -90,23 +90,26 @@ public class CruisePage {
 	}
  
 	public void expandCruiseFilter(JavascriptExecutor js) {
-		wait.until(ExpectedConditions.visibilityOf(arrowButton)).click();
 		js.executeScript("arguments[0].scrollIntoView({block: 'center'});", arrowButton);
+		wait.until(ExpectedConditions.visibilityOf(arrowButton)).click();
 		wait.until(ExpectedConditions.visibilityOf(cruiseFilter)).click();
 	}
  
-	public void printCruiseDetails(JavascriptExecutor js) throws InterruptedException {
-		Thread.sleep(6000);
+	public void printCruiseDetails(JavascriptExecutor js) {
+		
 		int top = 3;
 		String currentWindow = driver.getWindowHandle();
  
 		for (int i = 0; i < cruises.size() && top > 0; i++, top--) {
 			System.out.println(
 					"\n------------------------------------------------------------------------------------------------------------------");
+
+			wait.until(ExpectedConditions.visibilityOf(cruises.get(i)));
 			String title = cruises.get(i).getText();
 			System.out.println((i + 1) + ". " + title);
  
 			try {
+				wait.until(ExpectedConditions.visibilityOf(prices.get(i)));
 				String price = prices.get(i).getText();
 				System.out.println("Price : " + price);
 			} catch (Exception e) {

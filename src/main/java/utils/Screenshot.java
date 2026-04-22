@@ -14,9 +14,7 @@ import org.openqa.selenium.io.FileHandler;
 public class Screenshot {
 	public static String filepath = System.getProperty("user.dir") + "/screenshots/";
  
-    public static String screenShotTC(WebDriver scdriver, String fileName) 
-    {
-        // ✅ Declare and check the directory
+    public static String screenShotTC(WebDriver scdriver, String fileName) {
         File directory = new File(filepath);
         if (!directory.exists()) 
         {
