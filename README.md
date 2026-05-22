@@ -29,7 +29,7 @@ This project validates multiple booking scenarios with dynamic inputs, reporting
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Selenium WebDriver** – Browser automation  
 - **Java** – Core programming language  
@@ -72,14 +72,14 @@ TravelCostCalculation/
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 - Screenshots are automatically captured after each testcase execution.  
 - Available in the `screenshots/` folder and embedded in Allure reports.
 
 ---
 
-## 📊 Reports
+## Reports
 
 - Allure provides interactive HTML reports with:
   - Test execution timeline  
